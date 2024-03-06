@@ -1,6 +1,6 @@
 def capitalize_all_letters():
     input()
-'''Делает буквые большими'''
+'''Делает все буквы большими'''
 result = input()
 print(result.upper())
 
